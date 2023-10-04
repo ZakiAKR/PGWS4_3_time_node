@@ -8,9 +8,9 @@
 
 ![結果画像3](result1_3.gif)
 
-![結果画像](result1.gif)
+![結果画像](result1_4.gif)
 
-![シェーダグラフ](node_graph1.png)
+![シェーダグラフ](Node_Graph3.png)
 
 # 自分なりに変更した点
 - 「Custom」というShaferGraphを作成し、Sphereの周りを回り、先端から末端にかけて透明度が下がっているシェーダーを作成した。
